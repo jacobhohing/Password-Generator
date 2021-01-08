@@ -10,4 +10,4 @@ This project is designed to produce a random password based off of a few criteri
 
 The Function then outputs the combination of the selected critera in an easily copyable format. 
 
-![Project Img](readmeCapture.PNG)
+![Project Img](Assets/readmeCapture.PNG)
